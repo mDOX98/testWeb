@@ -52,6 +52,7 @@ It is often helpful to think of each pixel as a complex number, which is a 2-d v
 
 ## Noise
 
-This method cannot differentiate between a temperature focal region and noise present in the MRI.  A higher SNR makes the effects of noise in the temperature less p 
+This method cannot differentiate between a temperature focal region and noise present in the MRI.  A higher SNR lessens the effects of noise.
+
 
 ## Examples
