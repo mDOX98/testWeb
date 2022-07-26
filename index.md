@@ -23,13 +23,13 @@
 
 ## Traditional Thermometry
 
-[Proton Resonance Frequency Method](thermometry.md)
+MRI Thermometry is the process of measuring the internal temperature of an MR image.  There are multiple thermometry method's that can be used to process MR images into useful temperature maps.  The method used in clinical practice is the [proton resonance frequency method](thermometry.md).
 
-$\Delta T = c_t\Delta \theta$ where $c_t$ is the temperature radian ratio and $\Delta \theta$ is the change in phase angle between the current image and the baseline.
+This method compares images to a previous baseline with a known temperature to calculate a change in temperature.
 
-This can be better seen in this equation where $\theta_{1}$ is the phase angle of the current image and $\theta_{0}$ which is the phase angle of the baseline.
+A concern for doctors and surgeons is temperature ambiguity.  Temperature measurements can be ambiguous when the imaging slice is not perfectly centered on the heating focus.  This is demonstrated here:
 
-$\Delta T = c_t(\theta_{1}-\theta_{0})$
+![temperatureAmbiguity](temperatureAmbiguity.JPG)
 
 
 
