@@ -44,7 +44,7 @@ $\Delta T = c_t(\theta_{1}-\theta_{0})$
 
 ## ADMM Iterative Step
 
-A more in depth explaination of this step can be found [here](\admm.md)
+A more in depth explaination of this step can be found [here](admm.md)
   
 ## Adding SVD and Baseline for Accurate Pixel Magnitudes
 
